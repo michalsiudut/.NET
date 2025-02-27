@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8x4wg5n/9W9em5dX9VKsLGK7OzQLQ8xaI1vlLwgWDvmmzGBVp11B0Yrhs1kL8DGQWfCjNwm7a/liTthpE8gY7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michał\\Desktop\\Studia\\.NET\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\MyLibrary.sourcelink.json
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.AssemblyReference.cache

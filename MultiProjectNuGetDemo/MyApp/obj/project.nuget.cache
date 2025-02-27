@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jd9DJuCtYLQjZ25ghEeBbouyauHRT3sMj5qPpC/+r2VqyCA1DOotDAtLs05fdsRMcTg0GhMYtK2bqlklk3Joww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michał\\Desktop\\Studia\\.NET\\MultiProjectNuGetDemo\\MyApp\\MyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

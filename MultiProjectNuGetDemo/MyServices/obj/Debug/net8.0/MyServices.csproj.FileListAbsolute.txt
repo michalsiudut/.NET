@@ -1,0 +1,13 @@
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\bin\Debug\net8.0\MyServices.deps.json
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\bin\Debug\net8.0\MyServices.dll
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\bin\Debug\net8.0\MyServices.pdb
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.AssemblyInfo.cs
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.sourcelink.json
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.dll
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\refint\MyServices.dll
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.pdb
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\ref\MyServices.dll
+C:\Users\Michał\Desktop\Studia\.NET\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.csproj.AssemblyReference.cache
